@@ -34,6 +34,8 @@ Mi camino comenzó en la **ingeniería**, evolucionó hacia el **Big Data** y ah
 
 ## 🏆 Certificaciones y Cursos  
 🎓 **Máster en Big Data** (Tokio School) *(En curso...)*  
+📜 **PCAP-31-03 - Certified Python Associate Programmer** (Python Institute)  
+📜 **PCEP-30-01 - Certified Entry-Level Python Programmer** (Python Institute)  
 📜 **Python para Ciencia de Datos** (PUE)  
 📜 **Tu Primera Semana como Data Scientist** (DS4B)  
 📜 **Git & GitHub: Control de Versiones** (Curso Práctico)  
